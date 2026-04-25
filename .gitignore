@@ -1,0 +1,76 @@
+
+# Node.js / React
+
+node_modules/
+dist/
+build/
+.npm/
+.vite/
+
+
+# Python
+
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Python packaging
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+
+# 📓 Jupyter Notebook
+
+.ipynb_checkpoints/
+
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+
+# ML / Models / Large Files
+
+*.pt
+*.pth
+*.bin
+*.onnx
+*.h5
+*.pkl
+*.joblib
+
+# HuggingFace cache (VERY IMPORTANT)
+.cache/
+huggingface/
+hf_home/
+
+
+# IDE / Editor
+
+.vscode/
+.idea/
+
+
+# Logs
+
+*.log
+
+
+# Secrets
+
+.env
+.env.*
+
+
+# Temporary / Scratch Files
+
+prediction_code.py
+adhikaar_code.py
+* (1).py
+* (1).ipynb

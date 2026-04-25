@@ -1,0 +1,1609 @@
+[
+  {
+    "issue": "Landlord refusing to return security deposit",
+    "law": "State Rent Control Acts; Consumer Protection Act, 2019",
+    "sections": "Example: Delhi Rent Control Act s.14; Consumer Protection Act s.35 (complaints)",
+    "plain_explanation": "At the end of tenancy, landlords must return the security deposit minus lawful deductions (damage, unpaid dues). Unjustified retention is unlawful and can be challenged.",
+    "steps": [
+      "Collect rental agreement, deposit receipt, photos/hand‑over note.",
+      "Send a written demand with a 15‑day deadline.",
+      "If unpaid, complain to Rent Authority or file on e‑Daakhil as consumer deficiency.",
+      "Preserve all communication and proof of handover."
+    ],
+    "resources": [
+      "https://edaakhil.nic.in/",
+      "https://consumerhelpline.gov.in/",
+      "https://indiacode.nic.in/"
+    ]
+  },
+  {
+    "issue": "Delayed refund for cancelled airline ticket",
+    "law": "DGCA Civil Aviation Requirements (CAR) Section 3, Series M, Part II; Consumer Protection Act, 2019",
+    "sections": "DGCA CAR: refund timelines and components; CPA s.2(1)(g) deficiency in service",
+    "plain_explanation": "Airlines must process refunds within the timelines set by DGCA. Unjustified delay or partial refunds can be pursued before aviation grievance portals and consumer forums.",
+    "steps": [
+      "Keep ticket, cancellation proof and airline correspondence.",
+      "Email airline citing DGCA CAR Section 3, Series M, Part II and ask refund timeline.",
+      "File on AirSewa if no action, then approach e‑Daakhil for compensation.",
+      "Ask bank to reverse gateway charges if service undelivered."
+    ],
+    "resources": [
+      "https://airsewa.gov.in/",
+      "https://dgca.gov.in/",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Cheque bounce",
+    "law": "Negotiable Instruments Act, 1881",
+    "sections": "Section 138 – dishonour of cheque; s.142 – cognizance; s.143 – summary trial",
+    "plain_explanation": "If a cheque is dishonoured due to insufficient funds/stop payment, the payee may proceed under Section 138 after serving a valid demand notice within statutory timelines.",
+    "steps": [
+      "Obtain bank return memo showing reason for dishonour.",
+      "Send legal notice within 30 days, demanding payment within 15 days.",
+      "If unpaid, file complaint under s.138 NI Act with all proofs.",
+      "Keep copies of notice, postal proof and return memo."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://nyaya.gov.in/",
+      "https://nyaaya.org/"
+    ]
+  },
+  {
+    "issue": "Police refusing to register FIR for a cognizable offence",
+    "law": "Code of Criminal Procedure, 1973",
+    "sections": "Section 154 CrPC – information in cognizable cases; s.156(3) – Magistrate’s direction to investigate",
+    "plain_explanation": "Police are duty‑bound to register an FIR for cognizable offences. On refusal, you can approach senior police or seek Magistrate’s direction under s.156(3).",
+    "steps": [
+      "Politely insist on FIR citing s.154 CrPC; request a written refusal if denied.",
+      "Write to SP/DCP enclosing complaint and evidence (acknowledgement).",
+      "Move an application to the Magistrate under s.156(3) CrPC.",
+      "Keep GD entry numbers, emails and acknowledgements."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://nalsa.gov.in/",
+      "https://nyaaya.org/"
+    ]
+  },
+  {
+    "issue": "Workplace sexual harassment",
+    "law": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)",
+    "sections": "Section 4 – Internal Complaints Committee; Section 9 – complaint within 3 months",
+    "plain_explanation": "Employers with 10+ employees must have an Internal Complaints Committee. A written complaint can be filed within 3 months of the incident (extendable for reasons).",
+    "steps": [
+      "Document incidents (dates, places, witnesses, messages).",
+      "File complaint to ICC; request interim reliefs if needed.",
+      "If no ICC, approach the Local Committee at the District Officer.",
+      "In grave offences, also file an FIR (e.g., IPC 354A)."
+    ],
+    "resources": [
+      "https://shebox.nic.in/",
+      "https://indiacode.nic.in/",
+      "https://nalsa.gov.in/"
+    ]
+  },
+  {
+    "issue": "Domestic violence",
+    "law": "Protection of Women from Domestic Violence Act, 2005; Indian Penal Code",
+    "sections": "PWDVA s.3 – definition of domestic violence; s.17–19 – residence and protection orders; IPC s.498A (cruelty)",
+    "plain_explanation": "Domestic violence includes physical, emotional, sexual and economic abuse. Survivors can seek immediate protection orders, residence rights and maintenance.",
+    "steps": [
+      "Contact 181 Women Helpline or dial 112/100 in emergencies.",
+      "Approach Protection Officer / Magistrate for protection and residence orders.",
+      "Consider FIR for cruelty/dowry harassment where applicable.",
+      "Seek free legal aid through Legal Services Authorities."
+    ],
+    "resources": [
+      "https://nalsa.gov.in/",
+      "https://indiacode.nic.in/",
+      "tel:181"
+    ]
+  },
+  {
+    "issue": "Online fraud or cyber scam",
+    "law": "Information Technology Act, 2000; Indian Penal Code",
+    "sections": "IT Act s.66C (identity theft), s.66D (cheating by personation); IPC s.420 (cheating)",
+    "plain_explanation": "Phishing, UPI fraud or impersonation are punishable cyber offences. Act quickly to preserve evidence and alert banks/police.",
+    "steps": [
+      "Collect screenshots, URLs, headers and bank statements.",
+      "Report immediately at the National Cybercrime Portal and dial 1930 for financial frauds.",
+      "File local police complaint/FIR and inform your bank to block accounts/cards.",
+      "Enable two‑factor authentication and change passwords."
+    ],
+    "resources": [
+      "https://cybercrime.gov.in/",
+      "tel:1930",
+      "https://rbi.org.in/"
+    ]
+  },
+  {
+    "issue": "Unauthorized electronic banking transaction (card/UPI/netbanking)",
+    "law": "RBI Customer Protection directions (2017)",
+    "sections": "RBI circular DBR.No.Leg.BC.78/09.07.005/2017-18 (06‑Jul‑2017) – shadow reversal within 10 working days",
+    "plain_explanation": "If you report unauthorized e‑transactions promptly, banks must credit the disputed amount (shadow reversal) within 10 working days, subject to RBI norms on liability.",
+    "steps": [
+      "Report to your bank immediately via official channels and get a complaint number.",
+      "Block card/UPI IDs; change credentials; file on cybercrime portal if fraud suspected.",
+      "Follow up in writing; escalate to the Banking Ombudsman if unresolved.",
+      "Maintain SMS/email alerts and dispute within timelines."
+    ],
+    "resources": [
+      "https://rbi.org.in/",
+      "https://cms.rbi.org.in/",
+      "https://cybercrime.gov.in/"
+    ]
+  },
+  {
+    "issue": "E‑commerce non‑delivery or defective goods",
+    "law": "Consumer Protection Act, 2019; Consumer Protection (E‑commerce) Rules, 2020",
+    "sections": "CPA s.2(1)(g) deficiency; E‑commerce Rules – seller obligations and grievance officer",
+    "plain_explanation": "Online marketplaces must ensure sellers disclose accurate information and resolve complaints. Non‑delivery/defects can be taken to consumer fora.",
+    "steps": [
+      "Raise ticket with platform’s grievance officer; capture responses.",
+      "Seek refund/replacement citing E‑commerce Rules obligations.",
+      "File complaint on e‑Daakhil with invoices, chats and screenshots.",
+      "Use National Consumer Helpline to mediate."
+    ],
+    "resources": [
+      "https://consumerhelpline.gov.in/",
+      "https://edaakhil.nic.in/",
+      "https://indiacode.nic.in/"
+    ]
+  },
+  {
+    "issue": "Delayed possession of flat by builder",
+    "law": "Real Estate (Regulation and Development) Act, 2016 (RERA); Consumer Protection Act, 2019",
+    "sections": "RERA s.18 – compensation/interest for delay; s.31 – complaint to Authority",
+    "plain_explanation": "Homebuyers can claim interest/compensation or exit with refund for delayed possession under RERA. Consumer fora are an additional remedy.",
+    "steps": [
+      "Collect allotment letter, agreement for sale and payment receipts.",
+      "File complaint with State RERA Authority seeking interest/refund under s.18.",
+      "Alternatively or additionally, file a consumer complaint for deficiency of service.",
+      "Track orders and ensure compliance; seek execution if builder defaults."
+    ],
+    "resources": [
+      "https://rera.gov.in/",
+      "https://edaakhil.nic.in/",
+      "https://consumerhelpline.gov.in/"
+    ]
+  },
+  {
+    "issue": "Bank refused education loan despite eligibility",
+    "law": "Banking guidelines; Model Education Loan Scheme",
+    "sections": "Eligibility and security norms",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Collect admission offer, co‑applicant docs.",
+      "Seek written reasons for rejection.",
+      "Escalate to bank nodal officer and RBI CMS.",
+      "Complain to Banking Ombudsman."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "P2P lending platform harassment",
+    "law": "RBI NBFC‑P2P Directions",
+    "sections": "Fair practices and recovery norms",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Save call recordings and messages.",
+      "Complain to platform and RBI Sachet.",
+      "File police complaint for threats.",
+      "Approach consumer forum for harassment."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Digital loan app data misuse/shaming",
+    "law": "IT Act; DPDP Act; RBI digital lending guidelines",
+    "sections": "Fair practices; privacy",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Report to cybercrime portal.",
+      "Complain to RBI and Play Store.",
+      "Send cease‑and‑desist to lender.",
+      "Seek injunction if needed."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Wrong KYC risk rating denial of service",
+    "law": "RBI KYC Master Directions",
+    "sections": "Risk‑based approach; no blanket denial",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Ask for written policy and deficiency.",
+      "Provide alternate OVDs.",
+      "Escalate to nodal officer and RBI CMS.",
+      "File consumer complaint if loss caused."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Courier cancelled order but kept convenience fee",
+    "law": "CPA, 2019",
+    "sections": "Unfair trade practice",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Demand full refund citing policy.",
+      "Escalate to platform grievance officer.",
+      "File e‑Daakhil complaint.",
+      "Keep invoices and chats."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Health insurance portability denial",
+    "law": "IRDAI Health Insurance Regulations",
+    "sections": "Portability timelines",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Apply 45–60 days before renewal.",
+      "Escalate to insurer GRO.",
+      "Complain on IGMS.",
+      "Approach Ombudsman if refused without cause."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "EPF pension computation error",
+    "law": "EPS, 1995",
+    "sections": "Formula and options",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Get pension calculation sheet.",
+      "File grievance on EPFiGMS.",
+      "Appeal to RPFC.",
+      "Seek legal remedy for arrears."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "College refused fee refund after withdrawal",
+    "law": "UGC fee refund guidelines",
+    "sections": "Timelines and slabs",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Cite UGC refund circular.",
+      "Escalate to UGC grievance portal.",
+      "File consumer complaint for refund + interest.",
+      "Keep admission/withdrawal dates."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "LPG subsidy not credited",
+    "law": "PAHAL (DBTL) scheme",
+    "sections": "Bank seeding and Aadhaar mapping",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Check bank seeding on myLPG.",
+      "Complain to OMC and DBTL helpline.",
+      "Escalate to consumer forum for loss.",
+      "Maintain refill invoices."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Wrong e‑way bill penalty",
+    "law": "GST e‑way bill rules",
+    "sections": "Procedural checks",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Gather invoice/e‑way bill.",
+      "Respond to detention order.",
+      "Appeal under GST Act.",
+      "Seek refund of penalty if wrongful."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Shop refused to accept legal currency",
+    "law": "RBI Act; Coinage Act",
+    "sections": "Legal tender rules",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Politely record refusal.",
+      "Complain to police/consumer forum.",
+      "Report to RBI if bank refusing coins.",
+      "Keep video/bill evidence."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Cinema hall not allowing outside baby food/medical needs",
+    "law": "CPA; disability/health protections",
+    "sections": "Reasonable accommodation",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Request exception at entry.",
+      "Escalate to manager and file complaint.",
+      "Approach consumer forum for deficiency.",
+      "Attach medical proof if any."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Airline refused wheelchair assistance",
+    "law": "DGCA CAR on carriage of persons with disability",
+    "sections": "Obligations for PRMs",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Request assistance in booking.",
+      "Record refusal and staff details.",
+      "Complain on AirSewa.",
+      "Claim compensation at consumer forum."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Bank locker theft/damage",
+    "law": "RBI Locker Guidelines (2022)",
+    "sections": "Bank liability caps",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Inform bank immediately and lodge FIR.",
+      "Seek compensation per RBI locker circular.",
+      "Escalate to Ombudsman.",
+      "Preserve locker rent receipts."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Apartment maintenance agency overcharging",
+    "law": "CPA; Contract law; RERA (common areas)",
+    "sections": "Service deficiency",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Request audited maintenance statements.",
+      "Raise dispute with association.",
+      "Approach consumer forum/RERA.",
+      "Keep notices and payments."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "e‑Challan paid but status not updated",
+    "law": "State traffic rules; Virtual Court",
+    "sections": "Record correction",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Keep payment receipt/transaction ID.",
+      "Raise ticket with traffic police/Virtual Court.",
+      "Seek NOC/closure order.",
+      "Escalate to CPGRAMS if pending."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Parcel marked delivered but not received",
+    "law": "CPA; Carriers Act",
+    "sections": "Proof of delivery disputes",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Ask for delivery proof and GPS logs.",
+      "Raise platform complaint.",
+      "File consumer case with loss proof.",
+      "Check neighbor/security CCTV."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Ration card denial despite eligibility",
+    "law": "NFSA, 2013",
+    "sections": "Inclusion/exclusion criteria",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Apply on state portal with proofs.",
+      "Appeal to District Supply Officer.",
+      "Use RTI for rejection reasons.",
+      "Approach grievance redressal officer."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "e‑Wallet KYC blocked funds",
+    "law": "PPI (Prepaid Payment Instruments) guidelines",
+    "sections": "KYC and limits",
+    "plain_explanation": "See cited law/regulator rules for your rights; denial without lawful reason is challengeable as deficiency of service or regulatory breach.",
+    "steps": [
+      "Complete KYC per issuer instructions.",
+      "Escalate to issuer nodal officer.",
+      "Complain to RBI Ombudsman.",
+      "Keep statements and IDs."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/",
+      "https://edaakhil.nic.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "ATM cash not dispensed but account debited",
+    "law": "RBI circulars; Banking Regulation Act",
+    "sections": "RBI ATM dispute resolution timelines; Ombudsman Scheme",
+    "plain_explanation": "If cash was not dispensed but debited, raise a dispute quickly. Banks must resolve within prescribed timelines or pay compensation.",
+    "steps": [
+      "Note date/time/ATM ID and keep SMS/balance slip.",
+      "Complain to bank within 24–48 hours; obtain ticket number.",
+      "Escalate to RBI CMS/Ombudsman if unresolved.",
+      "Avoid sharing OTP/PIN; check CCTV request with bank."
+    ],
+    "resources": [
+      "https://rbi.org.in/",
+      "https://cms.rbi.org.in/"
+    ]
+  },
+  {
+    "issue": "UPI payment stuck in pending/reversed state",
+    "law": "NPCI circulars; RBI directions",
+    "sections": "NPCI dispute T+N settlement timelines",
+    "plain_explanation": "UPI transactions that fail or remain pending are auto‑reversed within NPCI timelines; beyond that, raise a complaint.",
+    "steps": [
+      "Note UPI Txn ID and UTR.",
+      "Raise dispute in the app (Help > Report) and with bank.",
+      "Escalate via NPCI/Bank Ombudsman if not reversed.",
+      "Keep screenshots of app status."
+    ],
+    "resources": [
+      "https://www.npci.org.in/",
+      "https://cms.rbi.org.in/"
+    ]
+  },
+  {
+    "issue": "Credit report errors affecting loan",
+    "law": "Credit Information Companies (Regulation) Act, 2005",
+    "sections": "CICRA – rights to access and correct information",
+    "plain_explanation": "You have a right to accurate credit data. Wrong loan entries or delays in updates can be disputed with the bureau and lender.",
+    "steps": [
+      "Get full credit report (CIBIL/Equifax/Experian/CRIF).",
+      "Raise correction request with bureau and lender.",
+      "If not fixed, complain to RBI CMS and escalate to CIC regulator.",
+      "Maintain written acknowledgements."
+    ],
+    "resources": [
+      "https://cic.gov.in/",
+      "https://rbi.org.in/"
+    ]
+  },
+  {
+    "issue": "Insurance claim rejected (health/motor/life)",
+    "law": "Insurance Act, 1938; IRDAI regulations",
+    "sections": "Protection of Policyholders’ Interests Regulations",
+    "plain_explanation": "Unfair repudiation or delay by insurers can be challenged before the insurer’s grievance cell and the Ombudsman/consumer fora.",
+    "steps": [
+      "Collect policy, proposal form, claim forms and rejection letter.",
+      "Escalate to insurer’s Grievance Redressal Officer.",
+      "Complain to IRDAI (IGMS) or approach Insurance Ombudsman.",
+      "File consumer case for compensation if unresolved."
+    ],
+    "resources": [
+      "https://irdai.gov.in/",
+      "https://igms.irda.gov.in/",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Hospital overcharging or denial of cashless",
+    "law": "Clinical Establishments Act (where applicable); IRDAI circulars",
+    "sections": "IRDAI cashless norms; State pricing orders",
+    "plain_explanation": "Network hospitals must honor cashless as per insurer tie‑ups; arbitrary overcharging can be contested.",
+    "steps": [
+      "Call insurer TPA while admitted; get pre‑auth evidence.",
+      "Seek itemized bill; compare with package rates.",
+      "Complain to IRDAI IGMS/State Health Authority.",
+      "File consumer complaint if excess charged."
+    ],
+    "resources": [
+      "https://igms.irda.gov.in/",
+      "https://irdai.gov.in/",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Train ticket refund denial",
+    "law": "Railways Act; Railway Passengers (Refund of Fares) Rules; IRCTC terms",
+    "sections": "IRCTC refund timelines and TDR rules",
+    "plain_explanation": "IRCTC/Indian Railways must process refunds as per rules. Wrongful denials can be appealed.",
+    "steps": [
+      "File TDR within allowed time; keep PNR and TDR ID.",
+      "Track refund status on IRCTC; escalate to RailMadad.",
+      "Approach consumer forum with proofs if refund denied.",
+      "Keep journey proof and correspondence."
+    ],
+    "resources": [
+      "https://www.irctc.co.in/",
+      "https://railmadad.indianrailways.gov.in/"
+    ]
+  },
+  {
+    "issue": "Spam calls/SMS despite DND",
+    "law": "Telecom Commercial Communications Customer Preference Regulations (TCCCPR), TRAI",
+    "sections": "TCCCPR – UCC complaints",
+    "plain_explanation": "Telemarketers must respect DND preferences. Report unsolicited commercial communication to your operator and TRAI.",
+    "steps": [
+      "Activate DND via 1909.",
+      "Report UCC by forwarding SMS to 1909/using operator app.",
+      "Escalate to PG portal if unresolved.",
+      "Maintain complaint numbers."
+    ],
+    "resources": [
+      "https://www.trai.gov.in/",
+      "tel:1909"
+    ]
+  },
+  {
+    "issue": "Mobile number portability (MNP) rejected without cause",
+    "law": "Telecom Mobile Number Portability Regulations, TRAI",
+    "sections": "Grounds and timelines for porting",
+    "plain_explanation": "Operators can’t reject valid MNP requests without specified reasons (e.g., outstanding dues).",
+    "steps": [
+      "Send PORT <number> to 1900 and receive UPC.",
+      "Submit UPC to new operator with KYC.",
+      "If rejected, ask old operator for reason code and escalate to Appellate Authority.",
+      "Complain to TRAI via PG portal."
+    ],
+    "resources": [
+      "https://www.trai.gov.in/"
+    ]
+  },
+  {
+    "issue": "Electricity bill inflated/defective meter",
+    "law": "Electricity Act, 2003; State Supply Codes",
+    "sections": "Assessment & meter testing provisions",
+    "plain_explanation": "Consumers can seek meter testing and provisional billing corrections through the utility’s grievance forum.",
+    "steps": [
+      "Apply for meter testing; record meter readings.",
+      "File complaint with the Distribution Company (Discom).",
+      "Escalate to Consumer Grievance Redressal Forum (CGRF) and Ombudsman.",
+      "Keep bills, photos, load details."
+    ],
+    "resources": [
+      "https://powermin.gov.in/",
+      "State DISCOM CGRF pages"
+    ]
+  },
+  {
+    "issue": "Water board billing/disconnection disputes",
+    "law": "Municipal/by‑laws; Consumer Protection Act, 2019",
+    "sections": "Municipal Water Supply Rules",
+    "plain_explanation": "Arbitrary disconnections or abnormal bills can be contested with the utility and consumer forum.",
+    "steps": [
+      "Seek meter test and usage report.",
+      "File written grievance to utility; ask for hearing.",
+      "Approach Consumer Forum if not resolved.",
+      "Preserve photos, bills and notices."
+    ],
+    "resources": [
+      "https://edaakhil.nic.in/",
+      "Local municipal portal"
+    ]
+  },
+  {
+    "issue": "Gas cylinder short delivery/safety leak",
+    "law": "Gas Cylinders Rules; LPG marketing guidelines",
+    "sections": "OISD/marketing safety codes",
+    "plain_explanation": "Distributors must ensure correct weight and safe delivery; report short‑weight or leaks immediately.",
+    "steps": [
+      "Weigh cylinder at delivery; note seal and tare weight.",
+      "Report to distributor and OMC grievance cell.",
+      "If unresolved, file consumer complaint.",
+      "Install leak detector and maintain records."
+    ],
+    "resources": [
+      "https://mylpg.in/",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Passport application delayed without reason",
+    "law": "Passport Act, 1967; RTI Act, 2005",
+    "sections": "RTI s.6 application; appeal provisions",
+    "plain_explanation": "Undue delays can be escalated to the Passport Officer; RTI can be used to obtain reasons and timelines.",
+    "steps": [
+      "Track status on Passport Seva; raise grievance.",
+      "File RTI seeking file movement and pending objections.",
+      "Escalate to Regional Passport Office.",
+      "Approach CAT/consumer forum depending on facts."
+    ],
+    "resources": [
+      "https://www.passportindia.gov.in/",
+      "https://rtionline.gov.in/"
+    ]
+  },
+  {
+    "issue": "PAN/Aadhaar name or DOB mismatch causing service denial",
+    "law": "Income‑tax Act; Aadhaar Act, 2016",
+    "sections": "UIDAI update norms; IT Act PAN correction",
+    "plain_explanation": "You can update Aadhaar/PAN records and link them; agencies cannot deny essential services solely for mismatch during correction.",
+    "steps": [
+      "Submit UIDAI update with valid PoA/PoI.",
+      "Apply for PAN correction (Form 49A/CSF).",
+      "Escalate if services denied without alternative KYC.",
+      "Keep acknowledgement numbers."
+    ],
+    "resources": [
+      "https://uidai.gov.in/",
+      "https://www.incometax.gov.in/"
+    ]
+  },
+  {
+    "issue": "Voter registration/EPIC issues",
+    "law": "Representation of the People Act, 1950 & 1951",
+    "sections": "Form 6/8/7 processes",
+    "plain_explanation": "Citizens can add, correct or delete entries in electoral rolls through NVSP and BLOs.",
+    "steps": [
+      "Apply online via NVSP with documents.",
+      "Track application; respond to BLO verification.",
+      "Complain to ERO if delayed.",
+      "Use cVIGIL for MCC violations during polls."
+    ],
+    "resources": [
+      "https://voters.eci.gov.in/"
+    ]
+  },
+  {
+    "issue": "RTI request ignored beyond 30 days",
+    "law": "Right to Information Act, 2005",
+    "sections": "Section 7 – 30‑day limit; First/Second Appeal",
+    "plain_explanation": "Failure to reply within 30 days is deemed refusal; file first appeal and then second appeal to Information Commission.",
+    "steps": [
+      "File First Appeal to departmental Appellate Authority.",
+      "If unsatisfied, file Second Appeal to CIC/SIC.",
+      "Attach original RTI, proof of submission and grounds.",
+      "Attend hearing or authorize representative."
+    ],
+    "resources": [
+      "https://rtionline.gov.in/",
+      "https://cic.gov.in/"
+    ]
+  },
+  {
+    "issue": "Builder not providing promised amenities",
+    "law": "RERA, 2016; Consumer Protection Act, 2019",
+    "sections": "RERA s.11 obligations of promoter; s.31 complaint",
+    "plain_explanation": "Promoters must adhere to sanctioned plans and promised amenities; deviations are actionable.",
+    "steps": [
+      "Collect brochure, agreement and sanctioned plan copies.",
+      "File before State RERA citing deviations.",
+      "Seek compensation/rectification; also file consumer case if needed.",
+      "Monitor compliance orders."
+    ],
+    "resources": [
+      "https://rera.gov.in/",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Society charging arbitrary transfer/maintenance fees",
+    "law": "State Co‑operative Societies Acts/bye‑laws",
+    "sections": "Model bye‑laws fee caps",
+    "plain_explanation": "Housing societies must follow bye‑laws; arbitrary charges can be challenged before the Registrar/consumer fora.",
+    "steps": [
+      "Obtain certified copy of bye‑laws and resolutions.",
+      "Complain to Registrar of Co‑operatives.",
+      "Approach consumer forum for refund/compensation.",
+      "Keep maintenance bills and notices."
+    ],
+    "resources": [
+      "State Registrar portal",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Employer not paying wages on time",
+    "law": "Payment of Wages Act, 1936; Code on Wages, 2019 (where notified)",
+    "sections": "Section 5 – timely payment; s.15 – claims",
+    "plain_explanation": "Employees are entitled to timely wages without unlawful deductions. Claims can be raised before labour authorities or courts.",
+    "steps": [
+      "Keep appointment letter, payslips and bank statements.",
+      "Send written demand to HR/employer.",
+      "Approach Labour Commissioner or file claim under applicable law.",
+      "Consider legal notice if unresolved."
+    ],
+    "resources": [
+      "https://labour.gov.in/",
+      "State labour portal"
+    ]
+  },
+  {
+    "issue": "Non‑payment of gratuity",
+    "law": "Payment of Gratuity Act, 1972",
+    "sections": "s.4 – eligibility; s.7 – determination and payment",
+    "plain_explanation": "Gratuity becomes payable after qualifying service or on separation. Delays attract interest and penalties.",
+    "steps": [
+      "Calculate eligibility based on service period.",
+      "Apply to employer in prescribed form; seek payment within 30 days.",
+      "Complain to Controlling Authority under the Act.",
+      "File appeal if necessary."
+    ],
+    "resources": [
+      "https://labour.gov.in/"
+    ]
+  },
+  {
+    "issue": "Maternity benefit denied",
+    "law": "Maternity Benefit Act, 1961 (as amended 2017)",
+    "sections": "s.5 – maternity leave; crèche facility rules",
+    "plain_explanation": "Eligible women are entitled to paid maternity leave and benefits; denial is unlawful.",
+    "steps": [
+      "Submit medical certificates and leave application.",
+      "Escalate to Labour Commissioner.",
+      "File complaint under the Act/consumer forum for benefits.",
+      "Keep HR emails and policies."
+    ],
+    "resources": [
+      "https://labour.gov.in/"
+    ]
+  },
+  {
+    "issue": "Minimum wages not paid",
+    "law": "Minimum Wages Act, 1948 / Code on Wages, 2019",
+    "sections": "State minimum wage notifications",
+    "plain_explanation": "Employers must pay at least notified minimum wages; short‑payment is recoverable with penalty.",
+    "steps": [
+      "Check latest state minimum wage rate.",
+      "Complain to Labour Department/Inspector.",
+      "Seek recovery with compensation.",
+      "Maintain attendance, wage slips or witness statements."
+    ],
+    "resources": [
+      "https://labour.gov.in/",
+      "State labour portal"
+    ]
+  },
+  {
+    "issue": "Overtime not paid",
+    "law": "Factories Act, 1948; Shops and Establishments Acts",
+    "sections": "Overtime rate 2x where applicable",
+    "plain_explanation": "Eligible employees must be paid overtime at prescribed rates for work beyond limits.",
+    "steps": [
+      "Check applicability (factory vs shops).",
+      "Keep duty rosters and approvals.",
+      "Complain to Labour Inspector.",
+      "Claim before appropriate authority/court."
+    ],
+    "resources": [
+      "State labour portal"
+    ]
+  },
+  {
+    "issue": "PF withdrawal/transfer delayed",
+    "law": "Employees' Provident Funds and Miscellaneous Provisions Act, 1952",
+    "sections": "EPF Scheme provisions",
+    "plain_explanation": "EPF claims should be processed within stipulated time; undue delays can be escalated to EPFO.",
+    "steps": [
+      "File claim via Unified Portal with KYC seeded.",
+      "Raise grievance on EPFiGMS with UAN.",
+      "Visit RO if needed; keep acknowledgements.",
+      "Escalate to CBT member/CPGRAMS if unresolved."
+    ],
+    "resources": [
+      "https://unifiedportal-mem.epfindia.gov.in/",
+      "https://epfigms.gov.in/"
+    ]
+  },
+  {
+    "issue": "ESI benefit denial",
+    "law": "Employees' State Insurance Act, 1948",
+    "sections": "Eligibility and benefit provisions",
+    "plain_explanation": "Insured persons are entitled to medical and cash benefits subject to contributions.",
+    "steps": [
+      "Verify contribution periods and eligibility.",
+      "File claim at ESI dispensary/branch office.",
+      "Appeal to ESI authorities if denied.",
+      "Keep IP number and contribution statements."
+    ],
+    "resources": [
+      "https://www.esic.gov.in/"
+    ]
+  },
+  {
+    "issue": "Wrong GST charged / denial of GST invoice",
+    "law": "Central Goods and Services Tax Act, 2017",
+    "sections": "CGST invoicing rules; anti‑profiteering provisions",
+    "plain_explanation": "Businesses must issue proper tax invoices and not overcharge taxes beyond law.",
+    "steps": [
+      "Ask for correct invoice with GSTIN; verify on GST portal.",
+      "Complain to NAA/State GST if profiteering suspected.",
+      "Seek refund via seller or consumer forum.",
+      "Keep invoice and screenshots."
+    ],
+    "resources": [
+      "https://www.gst.gov.in/"
+    ]
+  },
+  {
+    "issue": "Income‑tax refund delayed",
+    "law": "Income‑tax Act, 1961",
+    "sections": "Section 244A – interest on refunds",
+    "plain_explanation": "Delays in processing legitimate refunds attract statutory interest.",
+    "steps": [
+      "Verify return status on e‑Filing portal.",
+      "Raise grievance under e‑Nivaran.",
+      "If unresolved, approach jurisdictional AO/Grievance Cell.",
+      "Consider Ombudsman or writ in extreme delays."
+    ],
+    "resources": [
+      "https://www.incometax.gov.in/"
+    ]
+  },
+  {
+    "issue": "Noise pollution by loudspeakers",
+    "law": "Environment (Protection) Act, 1986; Noise Pollution (Regulation and Control) Rules, 2000",
+    "sections": "Permissible dB limits; time restrictions",
+    "plain_explanation": "Use of loudspeakers is regulated by time and decibel limits; violations can be complained to police/PCB.",
+    "steps": [
+      "Record dates/times; capture video decibel app (indicative).",
+      "Complain to local police and State Pollution Control Board.",
+      "Seek immediate restraint order if persistent.",
+      "Keep complaint numbers."
+    ],
+    "resources": [
+      "State PCB portal",
+      "https://moefcc.gov.in/"
+    ]
+  },
+  {
+    "issue": "Illegal construction in neighbourhood",
+    "law": "Municipal Acts; Building bye‑laws",
+    "sections": "Stop‑work/ demolition provisions",
+    "plain_explanation": "Unauthorised constructions can be reported to municipal authorities for inspection and action.",
+    "steps": [
+      "File a written complaint with ward office with photos.",
+      "RTI to know action taken.",
+      "Approach High Court via PIL if civic inaction persists.",
+      "Maintain site visit records."
+    ],
+    "resources": [
+      "Local municipal portal",
+      "https://rtionline.gov.in/"
+    ]
+  },
+  {
+    "issue": "Data breach by company (privacy)",
+    "law": "Digital Personal Data Protection Act, 2023",
+    "sections": "Obligations of data fiduciaries; user rights",
+    "plain_explanation": "Companies must protect personal data and report breaches per DPDP Act; you can seek remedies once rules and Board processes are operational.",
+    "steps": [
+      "Ask data fiduciary for details and remedial steps.",
+      "Use grievance redressal specified in privacy notice.",
+      "Escalate to the Data Protection Board (when notified).",
+      "Change passwords and enable MFA."
+    ],
+    "resources": [
+      "https://www.meity.gov.in/"
+    ]
+  },
+  {
+    "issue": "School/college withholding certificates/TC",
+    "law": "UGC/AICTE regulations; Consumer Protection Act",
+    "sections": "UGC refund/withholding circulars",
+    "plain_explanation": "Institutions cannot unlawfully withhold original certificates or deny TC after dues settlement.",
+    "steps": [
+      "Write to Principal/Registrar quoting UGC circulars.",
+      "Escalate to UGC/AICTE grievance cell.",
+      "File consumer complaint for deficiency of service.",
+      "Keep fee receipts and emails."
+    ],
+    "resources": [
+      "https://www.ugc.gov.in/",
+      "https://aicte-india.org/",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Private school charging illegal fees",
+    "law": "State Education Acts; Fee Regulation Rules; CPA, 2019",
+    "sections": "Capitation fee prohibition",
+    "plain_explanation": "Schools cannot collect capitation or unapproved fees; parents can complain to education department and consumer forums.",
+    "steps": [
+      "Obtain fee circular and receipts.",
+      "Complain to District Education Officer/fee regulation committee.",
+      "Approach consumer forum for refund.",
+      "Join PTA representation."
+    ],
+    "resources": [
+      "State Education Dept",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Denial of reservation benefits in admissions",
+    "law": "Constitution; RTE Act; State policies",
+    "sections": "RTE s.12(1)(c) – 25% reservation",
+    "plain_explanation": "Eligible children are entitled to reserved seats in private unaided schools under RTE.",
+    "steps": [
+      "Apply within state RTE portal deadlines.",
+      "Escalate to District Education Officer if denied.",
+      "Approach SCPCR/NCPCR with grievance.",
+      "Consider writ petition for systemic denial."
+    ],
+    "resources": [
+      "State RTE portal",
+      "https://ncpcr.gov.in/"
+    ]
+  },
+  {
+    "issue": "Medical negligence claim",
+    "law": "Consumer Protection Act, 2019; Tort law; Clinical Establishments Act (where applicable)",
+    "sections": "CPA deficiency; Bolam/Bolitho standards (jurisprudence)",
+    "plain_explanation": "Negligent medical care causing loss can be compensated via consumer fora or civil suit.",
+    "steps": [
+      "Obtain complete medical records and opinion.",
+      "Issue legal notice to hospital/doctor.",
+      "File consumer complaint for compensation.",
+      "Preserve bills and prescriptions."
+    ],
+    "resources": [
+      "https://edaakhil.nic.in/",
+      "https://consumerhelpline.gov.in/"
+    ]
+  },
+  {
+    "issue": "Motor accident third‑party claim",
+    "law": "Motor Vehicles Act, 1988 (as amended)",
+    "sections": "MACT claim provisions",
+    "plain_explanation": "Victims or legal heirs can claim compensation before the Motor Accident Claims Tribunal.",
+    "steps": [
+      "File FIR/accident report and MLC.",
+      "Collect insurance details and witness info.",
+      "File claim before MACT with documents.",
+      "Follow medical board evaluations."
+    ],
+    "resources": [
+      "https://morth.nic.in/"
+    ]
+  },
+  {
+    "issue": "Hit‑and‑run compensation",
+    "law": "MV Amendment Act, 2019; Hit and Run Compensation Scheme",
+    "sections": "Compensation scheme rules",
+    "plain_explanation": "Statutory compensation is available for death or grievous injury in hit‑and‑run cases.",
+    "steps": [
+      "File FIR and obtain DAR.",
+      "Apply for compensation through the designated scheme.",
+      "Attach medical/death certification and eyewitnesses.",
+      "Track payment through authority."
+    ],
+    "resources": [
+      "https://morth.nic.in/"
+    ]
+  },
+  {
+    "issue": "Traffic e‑challan wrongly issued",
+    "law": "Motor Vehicles Act; State traffic rules",
+    "sections": "Challan dispute/virtual court",
+    "plain_explanation": "You can contest wrong challans online before Virtual Courts or traffic police appellate channels.",
+    "steps": [
+      "Check challan details on Parivahan/State portal.",
+      "Upload evidence (vehicle location, sale proof).",
+      "Dispute before Virtual Court or traffic DCP.",
+      "Keep acknowledgements and receipts."
+    ],
+    "resources": [
+      "https://echallan.parivahan.gov.in/"
+    ]
+  },
+  {
+    "issue": "Aadhaar data misuse/identity theft",
+    "law": "IT Act, 2000; Aadhaar Act, 2016",
+    "sections": "IT Act s.66C; Aadhaar regulations on misuse",
+    "plain_explanation": "Fraudulent use of Aadhaar is punishable. Lock biometrics and report promptly.",
+    "steps": [
+      "Check authentication history on UIDAI.",
+      "Lock biometrics via mAadhaar/portal.",
+      "Report at cybercrime portal and file police complaint.",
+      "Inform linked banks and change KYC."
+    ],
+    "resources": [
+      "https://uidai.gov.in/",
+      "https://cybercrime.gov.in/"
+    ]
+  },
+  {
+    "issue": "Builder collected GST but not deposited/refused invoice",
+    "law": "CGST Act, 2017; RERA",
+    "sections": "CGST invoicing rules; RERA obligations",
+    "plain_explanation": "Builders must issue proper GST invoices and cannot pocket taxes.",
+    "steps": [
+      "Request tax invoice and verify GSTIN.",
+      "Complain to State GST if tax not deposited.",
+      "Raise issue in RERA/consumer forum for refund/penalty.",
+      "Keep payment proofs."
+    ],
+    "resources": [
+      "https://www.gst.gov.in/",
+      "https://rera.gov.in/"
+    ]
+  },
+  {
+    "issue": "Bank refusing account closure/charging illegal fees",
+    "law": "Banking Regulation Act; RBI customer service guidelines",
+    "sections": "RBI closure norms",
+    "plain_explanation": "Banks must allow closure without harassment and disclose charges transparently.",
+    "steps": [
+      "Submit closure request with KYC and zero balance.",
+      "Escalate to bank nodal officer.",
+      "Complain via RBI CMS if charged unfairly.",
+      "Maintain written records."
+    ],
+    "resources": [
+      "https://cms.rbi.org.in/"
+    ]
+  },
+  {
+    "issue": "Courier/loss or damage of parcel",
+    "law": "Carriers Act, 1865; CPA, 2019",
+    "sections": "Liability limitations and negligence standards",
+    "plain_explanation": "Carriers are liable for negligence; consumers can seek compensation for loss/damage.",
+    "steps": [
+      "File claim within specified time; keep consignment note.",
+      "Escalate to carrier grievance cell.",
+      "Approach consumer forum with valuation proof.",
+      "Use photos and packing receipts."
+    ],
+    "resources": [
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Cinema/Events: denial of refund for cancelled show",
+    "law": "CPA, 2019; local entertainment rules",
+    "sections": "Deficiency in service",
+    "plain_explanation": "Event organizers must refund when shows are cancelled or materially altered.",
+    "steps": [
+      "Keep tickets and cancellation notice.",
+      "Demand refund from organizer/platform.",
+      "File consumer complaint if refused.",
+      "Attach payment screenshots."
+    ],
+    "resources": [
+      "https://edaakhil.nic.in/",
+      "https://consumerhelpline.gov.in/"
+    ]
+  },
+  {
+    "issue": "Airline denied boarding due to overbooking",
+    "law": "DGCA CAR Section 3, Series M, Part IV",
+    "sections": "Denied boarding compensation norms",
+    "plain_explanation": "Passengers denied boarding are entitled to compensation/alternative arrangements under DGCA norms.",
+    "steps": [
+      "Obtain written denial reason and boarding denial document.",
+      "Ask for compensation/alternate flight as per CAR.",
+      "Complain on AirSewa if not honored.",
+      "Approach consumer forum for damages."
+    ],
+    "resources": [
+      "https://dgca.gov.in/",
+      "https://airsewa.gov.in/"
+    ]
+  },
+  {
+    "issue": "Lost/delayed baggage compensation (air travel)",
+    "law": "Carriage by Air Act; DGCA CAR",
+    "sections": "Baggage liability limits",
+    "plain_explanation": "Airlines are liable up to statutory limits for lost/damaged/delayed baggage.",
+    "steps": [
+      "File PIR at airport immediately.",
+      "Keep baggage tags and boarding passes.",
+      "Submit claim within airline timelines.",
+      "Escalate to AirSewa/consumer forum if denied."
+    ],
+    "resources": [
+      "https://dgca.gov.in/",
+      "https://airsewa.gov.in/"
+    ]
+  },
+  {
+    "issue": "Aadhaar update rejected repeatedly",
+    "law": "Aadhaar Act, 2016; UIDAI Regulations",
+    "sections": "Update process and documentary proof norms",
+    "plain_explanation": "Residents can update demographics/biometrics with valid proof; repeated rejections can be appealed.",
+    "steps": [
+      "Use UIDAI online/offline update with PoA/PoI.",
+      "Visit Aadhaar Seva Kendra for biometric updates.",
+      "Raise grievance through UIDAI helpdesk.",
+      "File consumer complaint if service deficiency."
+    ],
+    "resources": [
+      "https://uidai.gov.in/"
+    ]
+  },
+  {
+    "issue": "PAN not linked with Aadhaar – service denial",
+    "law": "Income‑tax Act; CBDT notifications",
+    "sections": "Linking rules and penalties",
+    "plain_explanation": "Certain services require PAN‑Aadhaar linking; resolve linking errors via correction/update.",
+    "steps": [
+      "Update name/DOB in Aadhaar/PAN to match.",
+      "Use e‑Filing portal for linking and pay fee if applicable.",
+      "Raise grievance if technical error persists.",
+      "Keep acknowledgements."
+    ],
+    "resources": [
+      "https://www.incometax.gov.in/",
+      "https://uidai.gov.in/"
+    ]
+  },
+  {
+    "issue": "Scholarship not disbursed though eligible",
+    "law": "State/Central Scholarship schemes",
+    "sections": "Scheme guidelines",
+    "plain_explanation": "Eligible students can seek timely disbursal; delays can be escalated.",
+    "steps": [
+      "Track on NSP/state portal.",
+      "Complain to institute nodal officer.",
+      "Escalate to department helpline.",
+      "Use RTI to find reasons for delay."
+    ],
+    "resources": [
+      "https://scholarships.gov.in/",
+      "https://rtionline.gov.in/"
+    ]
+  },
+  {
+    "issue": "University exam revaluation delay",
+    "law": "University statutes; UGC norms; CPA",
+    "sections": "Time‑bound result obligations",
+    "plain_explanation": "Unreasonable delays in revaluation can be deficiency of service.",
+    "steps": [
+      "File revaluation request within timeline.",
+      "Track status and obtain RTI on file movement.",
+      "Approach Consumer Forum for compensation if excessive delay.",
+      "Keep fee receipts and applications."
+    ],
+    "resources": [
+      "https://rtionline.gov.in/",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "ATM card captured and charges levied",
+    "law": "RBI customer service circulars",
+    "sections": "Liability norms",
+    "plain_explanation": "If ATM captures card due to terminal fault, charges/penalties should not be levied.",
+    "steps": [
+      "Collect slip/terminal details.",
+      "Complain to bank and acquiring bank (if other bank ATM).",
+      "Escalate to RBI CMS.",
+      "Disable card and request replacement."
+    ],
+    "resources": [
+      "https://cms.rbi.org.in/"
+    ]
+  },
+  {
+    "issue": "Denial of disability reservation benefits",
+    "law": "Rights of Persons with Disabilities Act, 2016",
+    "sections": "Reservation/identification of posts; education quotas",
+    "plain_explanation": "PwD candidates have statutory rights in education/employment; denial can be challenged.",
+    "steps": [
+      "Collect valid disability certificate.",
+      "Complain to department grievance cell and Chief Commissioner for PwD.",
+      "Approach High Court if systemic.",
+      "Preserve recruitment/admission notices."
+    ],
+    "resources": [
+      "https://disabilityaffairs.gov.in/"
+    ]
+  },
+  {
+    "issue": "Employer not issuing experience/relieving letter",
+    "law": "Shops & Establishments; Contract law; CPA",
+    "sections": "Service certificate obligations (state‑specific)",
+    "plain_explanation": "Unreasonable refusal can be challenged before labour authorities/consumer forum.",
+    "steps": [
+      "Send formal request with last working day proof.",
+      "Escalate to Labour Department.",
+      "Approach consumer forum for deficiency causing loss.",
+      "Maintain email trails."
+    ],
+    "resources": [
+      "State labour portal",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Bonded labour/withholding wages for notice period",
+    "law": "Bonded Labour System (Abolition) Act; Contract Act",
+    "sections": "Unconscionable bond clauses unenforceable",
+    "plain_explanation": "Excessive penalties or forced labour practices are unlawful.",
+    "steps": [
+      "Document hours, threats and dues.",
+      "Complain to Labour Department/Police.",
+      "Seek legal aid and file claim for unpaid wages.",
+      "Approach court for restraint orders."
+    ],
+    "resources": [
+      "https://labour.gov.in/",
+      "https://nalsa.gov.in/"
+    ]
+  },
+  {
+    "issue": "Child labour complaint",
+    "law": "Child and Adolescent Labour (Prohibition and Regulation) Act, 1986 (amended 2016)",
+    "sections": "Prohibitions and penalties",
+    "plain_explanation": "Employment of children below 14 in any occupation and adolescents in hazardous processes is prohibited.",
+    "steps": [
+      "Report to District Task Force/Police.",
+      "Use PENCIL portal to report.",
+      "Seek rehabilitation support for rescued child.",
+      "Follow up with labour department."
+    ],
+    "resources": [
+      "https://pencil.gov.in/"
+    ]
+  },
+  {
+    "issue": "Dowry harassment",
+    "law": "Dowry Prohibition Act, 1961; IPC 498A",
+    "sections": "DPA s.3–4 penalties; IPC 498A cruelty",
+    "plain_explanation": "Demanding/receiving dowry is illegal and harassment is punishable.",
+    "steps": [
+      "Dial 181/112 in emergencies.",
+      "File FIR citing IPC 498A and DPA provisions.",
+      "Seek PWDVA protection orders.",
+      "Access free legal aid."
+    ],
+    "resources": [
+      "https://nalsa.gov.in/",
+      "tel:181"
+    ]
+  },
+  {
+    "issue": "Stalking/cyberstalking",
+    "law": "IPC s.354D; IT Act",
+    "sections": "354D – stalking",
+    "plain_explanation": "Persistent following/online harassment is a cognizable offence.",
+    "steps": [
+      "Collect screenshots and URLs.",
+      "File FIR/cyber complaint.",
+      "Seek restraining orders.",
+      "Enhance privacy settings and report on platforms."
+    ],
+    "resources": [
+      "https://cybercrime.gov.in/"
+    ]
+  },
+  {
+    "issue": "Defamation online",
+    "law": "IPC s.499/500; IT Act safe‑harbour rules",
+    "sections": "499 – defamation; 500 – punishment",
+    "plain_explanation": "False publications harming reputation may constitute defamation; platforms have takedown processes.",
+    "steps": [
+      "Send takedown notice to platform with URLs.",
+      "File civil/criminal complaint where applicable.",
+      "Preserve web archives/screenshots.",
+      "Avoid counter‑defamation."
+    ],
+    "resources": [
+      "https://indiacode.nic.in/"
+    ]
+  },
+  {
+    "issue": "Public nuisance (open burning/garbage)",
+    "law": "Municipal Acts; Environment laws",
+    "sections": "Solid Waste Management Rules, 2016",
+    "plain_explanation": "Open burning and poor waste handling can be complained to civic bodies/PCB.",
+    "steps": [
+      "Complain via Swachhata app/ward office.",
+      "Escalate to PCB with photos.",
+      "Use RTI/PIL for chronic inaction.",
+      "Track docket numbers."
+    ],
+    "resources": [
+      "https://swachh.city/",
+      "State PCB portal"
+    ]
+  },
+  {
+    "issue": "RTGS/NEFT delay beyond RBI timelines",
+    "law": "RBI Payment Systems directives",
+    "sections": "Turnaround times",
+    "plain_explanation": "Systemic delays can be escalated to bank and RBI.",
+    "steps": [
+      "Capture transaction reference and timestamps.",
+      "Complain to nodal officer.",
+      "Escalate to RBI CMS.",
+      "Seek compensation as per policy."
+    ],
+    "resources": [
+      "https://rbi.org.in/",
+      "https://cms.rbi.org.in/"
+    ]
+  },
+  {
+    "issue": "Pension not credited",
+    "law": "Pension Rules; EPFO/State treasury norms",
+    "sections": "Time‑bound credit rules",
+    "plain_explanation": "Pensioners can seek timely disbursal and arrears with interest where applicable.",
+    "steps": [
+      "Complain to bank branch and CPPC.",
+      "Raise grievance on CPENGRAMS.",
+      "Escalate to department head.",
+      "Maintain PPO and proofs."
+    ],
+    "resources": [
+      "https://pensionersportal.gov.in/",
+      "https://pgportal.gov.in/"
+    ]
+  },
+  {
+    "issue": "Aadhaar‑enabled payment system (AePS) fraud",
+    "law": "RBI/NPCI guidelines; IT Act",
+    "sections": "Customer liability norms",
+    "plain_explanation": "Report biometric fraud immediately; banks must follow liability norms and reverse unauthorized debits.",
+    "steps": [
+      "Block AePS; change credentials.",
+      "Complain to bank and file cyber report.",
+      "Escalate to RBI CMS.",
+      "Request CCTV/fingerprint logs where possible."
+    ],
+    "resources": [
+      "https://cms.rbi.org.in/",
+      "https://cybercrime.gov.in/"
+    ]
+  },
+  {
+    "issue": "KYC freeze of bank account",
+    "law": "RBI KYC Master Directions",
+    "sections": "KYC periodic updation norms",
+    "plain_explanation": "Banks can freeze for KYC non‑compliance but must allow easy reactivation on update.",
+    "steps": [
+      "Submit required KYC documents.",
+      "Ask bank for specific deficiency and timeline.",
+      "Escalate to nodal officer/RBI CMS if undue delay.",
+      "Keep acknowledgements."
+    ],
+    "resources": [
+      "https://rbi.org.in/"
+    ]
+  },
+  {
+    "issue": "Courier COD refund not received",
+    "law": "CPA, 2019",
+    "sections": "Deficiency in service",
+    "plain_explanation": "Platforms must settle COD refunds per policy; undue delay is actionable.",
+    "steps": [
+      "Raise ticket; get written timelines.",
+      "Escalate to grievance officer.",
+      "File consumer complaint.",
+      "Keep shipment and refund IDs."
+    ],
+    "resources": [
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Cinema overcharging beyond MRP for water/food",
+    "law": "Legal Metrology Act; CPA",
+    "sections": "Packaged commodities rules",
+    "plain_explanation": "Packaged goods must be sold at MRP; overcharging is actionable.",
+    "steps": [
+      "Take bill and photograph of MRP.",
+      "Complain to Controller of Legal Metrology.",
+      "Approach consumer forum for refund.",
+      "Spread awareness via NCH."
+    ],
+    "resources": [
+      "State Legal Metrology",
+      "https://consumerhelpline.gov.in/"
+    ]
+  },
+  {
+    "issue": "Airbnb/short‑stay host refusal to refund",
+    "law": "CPA, 2019; Contract law",
+    "sections": "Deficiency in service",
+    "plain_explanation": "Platform/host policies must be fair; arbitrary refusals can be challenged.",
+    "steps": [
+      "Escalate within platform; cite policy terms.",
+      "Use chargeback if eligible.",
+      "File consumer complaint with evidence.",
+      "Maintain chats and listing screenshots."
+    ],
+    "resources": [
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Misleading advertisements",
+    "law": "CPA, 2019; Central Consumer Protection Authority (CCPA) guidelines",
+    "sections": "CCPA (Misleading Ads) Guidelines",
+    "plain_explanation": "False or exaggerated claims are prohibited; consumers can complain to CCPA/consumer fora.",
+    "steps": [
+      "Capture ad copies/screenshots.",
+      "Complain to CCPA via NCH/portal.",
+      "File consumer complaint seeking compensation.",
+      "Ask for corrective ads."
+    ],
+    "resources": [
+      "https://consumeraffairs.nic.in/",
+      "https://consumerhelpline.gov.in/"
+    ]
+  },
+  {
+    "issue": "Pharmacy sold expired medicines",
+    "law": "Drugs and Cosmetics Act; CPA",
+    "sections": "Sale of spurious/expired drugs penalties",
+    "plain_explanation": "Selling expired medicines is illegal and dangerous; report immediately.",
+    "steps": [
+      "Keep the bill and product.",
+      "Complain to State Drug Controller.",
+      "Seek refund/compensation via consumer forum.",
+      "Report via helplines."
+    ],
+    "resources": [
+      "State FDA/Drug Control",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Misuse of personal data by telecom operator",
+    "law": "Telecom consumer protection; DPDP Act, 2023",
+    "sections": "Data fiduciary obligations",
+    "plain_explanation": "Unauthorized sharing/marketing without consent can be challenged.",
+    "steps": [
+      "Opt‑out/DND and record evidence.",
+      "Complain to operator Appellate Authority.",
+      "Escalate to TRAI and Data Protection Board (when operational).",
+      "Preserve notices/privacy policy."
+    ],
+    "resources": [
+      "https://www.trai.gov.in/",
+      "https://www.meity.gov.in/"
+    ]
+  },
+  {
+    "issue": "Wrong property tax assessment",
+    "law": "Municipal Acts",
+    "sections": "Self‑assessment/appeal provisions",
+    "plain_explanation": "You can appeal assessments and seek corrections/refunds.",
+    "steps": [
+      "File objection with supporting documents.",
+      "Attend hearing and obtain revised bill.",
+      "Escalate to appellate authority.",
+      "Use RTI for basis of assessment."
+    ],
+    "resources": [
+      "Local municipal portal",
+      "https://rtionline.gov.in/"
+    ]
+  },
+  {
+    "issue": "Registrar not registering property despite complete documents",
+    "law": "Registration Act, 1908; State stamp laws",
+    "sections": "Presenting/denial reasons; appeal",
+    "plain_explanation": "Registrars must record reasons for refusal; you can appeal or seek writ relief.",
+    "steps": [
+      "Request written endorsement stating reason for refusal.",
+      "Rectify defects if any and re‑present.",
+      "Appeal to Inspector General of Registration.",
+      "Approach High Court if arbitrary."
+    ],
+    "resources": [
+      "State Registration Dept"
+    ]
+  },
+  {
+    "issue": "Builder forfeiting earnest money unfairly",
+    "law": "RERA; Contract law; CPA",
+    "sections": "Forfeiture clauses scrutiny",
+    "plain_explanation": "Unfair forfeiture without actual loss can be challenged.",
+    "steps": [
+      "Examine agreement clauses.",
+      "Send legal notice seeking refund.",
+      "File RERA/consumer complaint.",
+      "Seek interest and costs."
+    ],
+    "resources": [
+      "https://rera.gov.in/",
+      "https://edaakhil.nic.in/"
+    ]
+  },
+  {
+    "issue": "Parcel held by customs without reason",
+    "law": "Customs Act, 1962",
+    "sections": "Provisional release; adjudication",
+    "plain_explanation": "Customs must communicate reasons and allow adjudication; importers can seek provisional release.",
+    "steps": [
+      "Seek reason in writing and assessment memo.",
+      "Provide documents/invoices.",
+      "Apply for provisional release and contest levy.",
+      "Appeal to Commissioner (Appeals)."
+    ],
+    "resources": [
+      "https://www.cbic.gov.in/"
+    ]
+  },
+  {
+    "issue": "Airlines charging hidden convenience fees",
+    "law": "CPA; DGCA advisories",
+    "sections": "Transparent pricing norms",
+    "plain_explanation": "Airlines must disclose all charges transparently; hidden fees are unfair trade practice.",
+    "steps": [
+      "Take screenshots during booking.",
+      "Complain to airline and AirSewa.",
+      "File consumer complaint for refund.",
+      "Share evidence of non‑disclosure."
+    ],
+    "resources": [
+      "https://airsewa.gov.in/",
+      "https://edaakhil.nic.in/"
+    ]
+  }
+]
