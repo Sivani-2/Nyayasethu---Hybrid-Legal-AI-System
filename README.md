@@ -1,4 +1,4 @@
-# CourtApp - AI Legal Platform
+# Nyayasethu - AI Legal Platform
 
 This platform integrates multiple AI services for legal assistance, including a multilingual RAG legal advisor (ADHIKAAR), a constitutional document Q&A summarizer, and a legal case predictor using machine learning.
 
